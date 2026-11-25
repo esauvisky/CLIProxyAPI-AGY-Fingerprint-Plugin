@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "plugins": [
+    {
+      "id": "agy-fingerprint",
+      "name": "AGY Fingerprint",
+      "description": "Writes the official agy CLI User-Agent into every Antigravity credential, on load and on demand from the management UI.",
+      "author": "pokemod",
+      "version": "0.1.1",
+      "repository": "https://github.com/esauvisky/CLIProxyAPI-AGY-Fingerprint-Plugin",
+      "homepage": "https://github.com/esauvisky/CLIProxyAPI-AGY-Fingerprint-Plugin",
+      "tags": ["antigravity", "fingerprint", "user-agent", "ui"]
+    }
+  ]
+}
